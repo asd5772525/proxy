@@ -1,7 +1,3 @@
-*经测试有些ip访问时会显示下图*
-
-<img src="https://image.3001.net/images/20231116/1700131811_6555f3e30a1efc2db761f.png" height="50%" width="50%" /></a>
-
 
 ---
 ### Demo
@@ -255,8 +251,4 @@ example()
 ```
 
 </details>
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=x-dr/chatgptProxyAPI&type=Date)](https://star-history.com/#x-dr/chatgptProxyAPI&Date)
 
